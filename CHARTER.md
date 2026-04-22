@@ -55,11 +55,11 @@ DPDS is designed and evolves based on the following principles:
   The decision to define a new part of the specification from the ground up shouldn't be taken lightly.
 
 ## Contributions
-The main ways to contribute are described in [CONTRIBUTING.md](CONTRIBUTING.md). 
+The main ways to contribute are described in [CONTRIBUTING.md](https://dpds.opendatamesh.org/community/contributing/). 
 
-All contributors must respect the [Code of Conduct](https://github.com/opendatamesh-initiative/.github/blob/main/CODE_OF_CONDUCT.md) and be familiar with the project's [governance rules](GOVERNANCE.md). 
+All contributors must respect the [Code of Conduct](https://github.com/opendatamesh-initiative/.github/blob/main/CODE_OF_CONDUCT.md) and be familiar with the project's [governance rules](https://dpds.opendatamesh.org/community/governance/). 
 
-The process to propose a change to the specification is described in [DEVELOPMENT.md](DEVELOPMENT.md)
+The process to propose a change to the specification is described in [DEVELOPMENT.md](https://dpds.opendatamesh.org/community/development/)
 
 ## History
 DPDS was originally created by [Quantyca](https://www.quantyca.it/). 
